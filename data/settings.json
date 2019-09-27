@@ -35,7 +35,7 @@
     },
     {
       "route": "blog",
-      "permalink": "/blog/",
+      "permalink": "https://medium.com/@gdgmalaga",
       "label": "Blog"
     }
   ],
