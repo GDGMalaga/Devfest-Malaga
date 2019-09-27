@@ -37,12 +37,12 @@
       "links": [
         {
           "name": "GDG Malaga",
-          "url": "http://lviv.gdg.org.ua/",
+          "url": "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/",
           "newTab": true
         },
         {
           "name": "GDG",
-          "url": "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/",
+          "url": "https://developers.google.com/community/gdg",
           "newTab": true
         },
         {
