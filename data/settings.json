@@ -108,7 +108,7 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
+    "name": "Escuela de Informatica",
     "city": "Malaga",
     "short": "Malaga, Spain",
     "address": "Bulevar Louis Pasteur, 35, Malaga, Spain",
@@ -121,7 +121,7 @@
       "latitude": 38,
       "longitude": -6
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "The School of Computer Engineering is located in the Teatinos Campus of the University of Málaga, next to the Hospital Virgen de la Victoria. All sessions, including conferences and workshops will take place in the school`s building. You will also find a cafe and free parking zones."
   },
   "mediaQueries": {
     "xs": {

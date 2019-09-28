@@ -66,8 +66,8 @@
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "Devfest 2018",
+          "url": "https://malagadevfest-5f472.web.app/",
           "newTab": true
         }
       ]
@@ -77,7 +77,7 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://drive.google.com/file/d/1qn9Mb41aMMyg_MecjA64K_NQx6Gzj01x/view?usp=sharing",
           "newTab": true
         },
         {
@@ -99,12 +99,10 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "GDG DevFest Málaga brings together the world class experts in Mobile, AI, Web and Cloud technologies to Málaga for 1 day of sessions, workshops and showcases."
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "One of the most important IT events of Málaga, our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "See how it was in 2016",
         "youtubeId": "TdpbgRgz6eE"
       }
@@ -234,11 +232,11 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/team-spain.jpg",
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/' target='_blank'>GDG Malaga</a> is a technology community with focus on share technology and do cool event where learn, share and have fun",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"

@@ -4,12 +4,12 @@
   "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE",
-    "authDomain": "hoverboard-dev.firebaseapp.com",
-    "databaseURL": "https://hoverboard-dev.firebaseio.com",
-    "projectId": "hoverboard-dev",
-    "storageBucket": "hoverboard-dev.appspot.com",
-    "messagingSenderId": "1083195713896"
+    "apiKey": "AIzaSyDP6fRqi4I-q2g7zdUWA-LJbuT6veLTsQQ",
+    "authDomain": "devfestmalaga19.firebaseapp.com",
+    "databaseURL": "https://devfestmalaga19.firebaseio.com",
+    "projectId": "devfestmalaga19",
+    "storageBucket": "devfestmalaga19.appspot.com",
+    "messagingSenderId": "389901197649"
   },
-  "googleMapApiKey": ""
+  "googleMapApiKey": "AIzaSyBKBJMyxYRgzRYWM6TDanSBelpdS41LVF0"
 }
