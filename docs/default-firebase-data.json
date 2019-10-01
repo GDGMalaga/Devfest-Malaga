@@ -89,21 +89,27 @@
       "logos": [
         {
           "order": 0,
+          "logoUrl": "../images/communities/la_pena_overflow.jpeg",
+          "name": "La Peña Overflow",
+          "url": "https://www.meetup.com/es-ES/La-Pena-Overflow/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/communities/yes_we_tech.jpg",
+          "name": "Yes We Tech",
+          "url": "https://yeswetech.org/"
+        },
+        {
+          "order": 2,
           "logoUrl": "../images/communities/LogoAngularMalaga.jpg",
           "name": "Angular Malaga",
           "url": "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/"
         },
         {
-          "order": 1,
+          "order": 3,
           "logoUrl": "../images/communities/topicfriend.jpg",
           "name": "Topic Friends",
           "url": "https://topicfriends.org"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/communities/acelera_espana.png",
-          "name": "Acelera España",
-          "url": "https://keepcoding.io/es/blog/acelera-espana-movimiento-resetear-espana/"
         }
       ],
       "order": 2,
@@ -1001,7 +1007,7 @@
       "title": "Data Scientist / Advocate"
     },
     "Carlos_Caballero": {
-      "bio": "",
+      "bio": "Carlos Caballero González es Ingeniero y Doctor en Informática por la Universidad de Málaga. Máster en Ingeniería del Software e Inteligencia Artificial. Imparte formación profesional y es profesor asociado en la Universidad Oberta de Cataluña. En la actualidad imparte el Máster de desarrollo de sitios Web, especializado en frontend. Además, desarrolla tareas de colaboración con el ministerio de educación como tutor del Aula Mentor e imparte cursos de formación específica. Ha escrito más de una docena de libros que son usados para impartir certificaciones profesionales y más de una decena de artículos de investigación en las primeras revistas a nivel internacional como son las publicaciones en Solar Physics (A Comparative Study of Clustering Methods for Active Region Detection in Solar EUV Images; Automatic tracking of active regions and detection of solar flares on solar EUV images). Anteriormente trabajó como investigador en la Universidad de Málaga en diversos proyectos internacionales centrados en AI y SWE donde acabó realizando una tesis doctoral relacionada con sistemas automáticos de detección de llamaradas solares.",
       "company": "Universitat Oberta de Catalunya",
       "companyLogo": "../images/companies/universidad_oberta_cataluna.png",
       "companyLogoUrl": "../images/companies/universidad_oberta_cataluna.png",
@@ -1229,6 +1235,32 @@
       ],
       "order": 19,
       "title": "Tech Lead / GDE"
+    },
+    "elena_guzman": {
+      "bio": "Elena is a software developer located in Málaga, Spain. Elena enjoys learning new technologies and making dreams come apps. Also writing and creating fictional worlds, dreaming new adventures in TTRPGames and videogames to imagine better worlds.",
+      "company": "Bravent",
+      "companyLogo": "../images/companies/bravent.png",
+      "companyLogoUrl": "../images/companies/bravent.png",
+      "country": "Málaga, Spain",
+      "featured": false,
+      "name": "Elena Guzmán Blanco",
+      "photo": "/images/people/speakers/elena_guzman.jpg",
+      "photoUrl": "../images/people/speakers/elena_guzman.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Beelzenef_",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/elena-guzman-blanco/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 20,
+      "title": "Software Developer"
     }
   },
   "team": [
@@ -2168,7 +2200,7 @@
     "amando_cavarallo": {
       "company": "Gamesys",
       "companyLogo": "../images/companies/gamesys.png",
-      "country": "Portugal",
+      "country": "London, UK",
       "id": "amando_cavarallo",
       "name": "Amanda Cavallaro",
       "order": 26,
@@ -2268,7 +2300,7 @@
     "oliver_leplus": {
       "company": "Microsoft",
       "companyLogo": "../images/companies/microsoft.png",
-      "country": "Spain",
+      "country": "Paris, France",
       "id": "oliver_leplus",
       "name": "Olivier Leplus",
       "order": 30,
