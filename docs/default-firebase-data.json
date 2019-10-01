@@ -113,7 +113,7 @@
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/organizer-logo.svg",
+          "logoUrl": "../images/logos/organizer-logo.png",
           "name": "GDG Malaga",
           "url": "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/"
         }
@@ -1021,6 +1021,32 @@
       "order": 10,
       "title": "Lecturer"
     },
+    "imran_settuba": {
+      "bio": "Imran is a Software Engineer and maintainer of the Arrow Kotlin functional library for Kotlin. Graduated in 2019 from the Technische Universität München (TUM), he has recently moved to Cadiz to join 47 Degrees.",
+      "company": "47 Degrees",
+      "companyLogo": "../images/companies/47_degrees.jpg",
+      "companyLogoUrl": "../images/companies/47_degrees.jpg",
+      "country": "Cadiz, Spain",
+      "featured": false,
+      "name": "Imran Settuba",
+      "photo": "/images/people/speakers/imran_settuba.png",
+      "photoUrl": "../images/people/speakers/imran_settuba.png",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/i-walker",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/imran-settuba/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 11,
+      "title": "Software Engineer"
+    },
     "daniel_pizarro": {
       "bio": "From Extremadura, Daniel is a curious guy that He is always trying to learn new knowledge about technology and share it with the community. He works with Android in Worldline Iberia (Madrid) since 2016, but He try to learn how develop also for iOS.",
       "company": "Worldline e-payment services",
@@ -1039,7 +1065,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 11,
+      "order": 12,
       "title": "Sr Android Engineer"
     },
     "david_cifuentes": {
@@ -1065,7 +1091,7 @@
           "name": "Github"
         }
       ],
-      "order": 12,
+      "order": 13,
       "title": "Sr Software Engineer"
     },
     "gema_arnaiz": {
@@ -1086,7 +1112,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 13,
+      "order": 14,
       "title": "Software Engineer"
     },
     "jorge_del_casar": {
@@ -1107,7 +1133,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 14,
+      "order": 15,
       "title": "Head of Frontend"
     },
     "israel_blancas": {
@@ -1128,7 +1154,7 @@
           "name": "Twitter"
         }
       ],
-      "order": 15,
+      "order": 16,
       "title": "Internal Tools Engineer"
     },
     "sergio_casero": {
@@ -1149,8 +1175,34 @@
           "name": "Twitter"
         }
       ],
-      "order": 16,
+      "order": 17,
       "title": "Android Team Lead"
+    },
+    "ana_encinar": {
+      "bio": "Ingeniera Informática por la Universidad de Salamanca, curiosa e inquieta por naturaleza. Resultado de ello es la obsesión por experimentar con todo lenguaje de programación. Amante de la inteligencia artificial y del cine. Temas sobre los que ha escrito en alguna revista. Una de las fundadoras de BlackBerry Developers Salamanca y ACM (Association for Computing Machinery) Salamanca. Fue en aquellas épocas donde comenzó su andadura con javascript. Actualmente se encuentra dedicada al mundo fullstack en Idealista.",
+      "company": "Idealista",
+      "companyLogo": "../images/companies/idealista.jpg",
+      "companyLogoUrl": "../images/companies/idealista.jpg",
+      "country": "Madrid, Spain",
+      "featured": false,
+      "name": "Ana Encinar",
+      "photo": "/images/people/speakers/ana_encinar.jpg",
+      "photoUrl": "../images/people/speakers/ana_encinar.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jnisabe",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ana-isabel-encinar-saez/",
+          "name": "Linkedin"
+        }
+      ],
+      "order": 18,
+      "title": "FullStack Developer"
     },
     "javier_lopez": {
       "bio": "Javier is a technology enthusiast, and works as Tech Lead at BBVA Next Technologies. He is also professor of Cloud technologies and in his free time he organizes Google Developers Group Burgos and presides Abi2Burgos.",
@@ -1175,7 +1227,7 @@
           "name": "Linkedin"
         }
       ],
-      "order": 17,
+      "order": 19,
       "title": "Tech Lead / GDE"
     }
   },
@@ -1659,6 +1711,31 @@
     }
   ],
   "previousSpeakers": {
+    "Hadi_Hariri": {
+      "company": "JetBrains",
+      "companyLogo": "../images/companies/jetbrain.png",
+      "country": "Spain",
+      "id": "Hadi_Hariri",
+      "name": "Hadi Hariri",
+      "order": 1,
+      "photoUrl": "../images/people/2017_speakers/hadi_hariri.jpg",
+      "sessions": {
+        "2017": [
+          {
+            "tags": ["Development", "Android"],
+            "title": "Functional Programming with Kotlin"
+          }
+        ]
+      },
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/hhariri",
+          "name": "Twitter"
+        }
+      ],
+      "title": "VP of Developer Advocacy"
+    },
     "jairo_caro": {
       "company": "Interacso",
       "companyLogo": "../images/companies/interacso.png",
@@ -2337,31 +2414,6 @@
         }
       ],
       "title": "Software engineer"
-    },
-    "Hadi_Hariri": {
-      "company": "JetBrains",
-      "companyLogo": "../images/companies/jetbrain.png",
-      "country": "Spain",
-      "id": "Hadi_Hariri",
-      "name": "Hadi Hariri",
-      "order": 36,
-      "photoUrl": "../images/people/2017_speakers/hadi_hariri.jpg",
-      "sessions": {
-        "2017": [
-          {
-            "tags": ["Development", "Android"],
-            "title": "Functional Programming with Kotlin"
-          }
-        ]
-      },
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/hhariri",
-          "name": "Twitter"
-        }
-      ],
-      "title": "VP of Developer Advocacy"
     }
   }
 }
