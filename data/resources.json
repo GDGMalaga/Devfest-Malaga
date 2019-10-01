@@ -1,5 +1,5 @@
 {
-  "title": "DevFest Málaga '19",
+  "title": "DevFest Málaga 19",
   "description": "Join the commuity, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, malaga",
@@ -96,13 +96,13 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "About DevFest Málaga",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Málaga brings together the world class experts in Mobile, AI, Web and Cloud technologies to Málaga for 1 day of sessions, workshops and showcases."
+        "description": "GDG DevFest Málaga brings together the world class experts in Mobile, AI, Web and Cloud technologies to Málaga for a full day of sessions, workshops and showcases."
       },
       "howItWas": {
-        "description": "One of the most important IT events of Málaga, our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "Organised by GDG Málaga (Women Techmakers, Hackers Week), the third edition of DevFest Málaga invites students, employees and tech enthusiasts to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "See how it was in 2016",
         "youtubeId": "TdpbgRgz6eE"
       }
@@ -118,7 +118,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "36"
+        "number": "26"
       },
       "tracks": {
         "label": "Tracks",
@@ -194,7 +194,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Málaga sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -238,7 +238,7 @@
         "title": "Organizer",
         "description": "<a href='https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/' target='_blank'>GDG Malaga</a> is a technology community with focus on share technology and do cool event where learn, share and have fun",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Meet the team",
           "link": "/team"
         }
       },
@@ -246,7 +246,7 @@
         "title": "What is GDG?",
         "description": "Google Developers Groups (GDGs) are communities of volunteers who create exciting projects and share experiences about Google technologies.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Learn more",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
@@ -255,7 +255,7 @@
         "title": "What is DevFest?",
         "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Learn more",
           "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
