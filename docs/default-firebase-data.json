@@ -766,16 +766,16 @@
   },
   "speakers": {
     "ekaterina_kamenskaya": {
-      "bio": "",
+      "bio": "Ekaterina has been working in Google for almost 9 years helping increase Engineering Productivity and product quality in various teams. She has been working for products such as Google Chrome and YouTube. Ekaterina received higher education degrees in Engineering and Management, and PhD in Engineering. She published a book about image recognition algorithms in biometrics. Ekaterina is passionate about Women in Tech, gives regular talks at the conferences, provides mentorship for Anita Borg Scholars, Googlers and girls interested in CS. She is the Google Women Engineers Lead in Google Zurich. She is also leading the internal education community focusing on Googlers‘ learning and development.",
       "company": "Google",
       "companyLogo": "/images/sponsors/google.svg",
       "companyLogoUrl": "../images/sponsors/google.svg",
-      "country": "Russia",
-      "featured": false,
+      "country": "Zurich, Switzerland",
+      "featured": true,
       "name": "Ekaterina Kamenskaya",
       "photo": "/images/people/speakers/ekaterina.jpg",
       "photoUrl": "../images/people/speakers/ekaterina.jpg",
-      "shortBio": "TechLead",
+      "shortBio": "Tech Lead Manager",
       "socials": [
         {
           "icon": "linkedin",
@@ -787,11 +787,11 @@
       "title": "Tech Lead"
     },
     "alberto_gutierrez": {
-      "bio": "",
+      "bio": "Engineer in RedHat working in ManageIQ Project and Middleware with RoR, Go and angular. With plenty of years of professional experience like SysAdmin (Hadoop certified, CloudForms) and Developer (Microservices in Go, OpenStack certified), Alberto works developing and maintaining open source projects and is part of the GDG community.",
       "company": "Red Hat",
       "companyLogo": "../images/companies/Red_hat_logo.png",
       "companyLogoUrl": "../images/companies/Red_hat_logo.png",
-      "country": "Spain",
+      "country": "Granada, Spain",
       "featured": false,
       "name": "Alberto Gutierrez ",
       "photo": "/images/people/speakers/alberto_gutierrez.jpeg",
@@ -813,12 +813,12 @@
       "title": "Sr Software Engineer / GDE"
     },
     "estefania_garcia": {
-      "bio": "",
+      "bio": "Born in Málaga, Estefanía has completed college at IES Jesús Marín and is currently working as Software Developer intern in Lemoncoder. Her specialty are web technologies, and she often collaborates in the open source community. Estefanía is the co-creator and maintainer of the utility npkill that helps developers find and remove heavy & unused node_module in npm.",
       "company": "Npkill",
       "companyLogo": "../images/companies/npkill.png",
       "companyLogoUrl": "../images/companies/npkill.png",
-      "country": "Spain",
-      "featured": false,
+      "country": "Málaga, Spain",
+      "featured": true,
       "name": "Estefania García",
       "photo": "/images/people/speakers/estefania_garcia.jpg",
       "photoUrl": "../images/people/speakers/estefania_garcia.jpg",
@@ -831,14 +831,14 @@
         }
       ],
       "order": 2,
-      "title": "FP Student / “NPKILL”"
+      "title": "Intern SwE @ Lemoncode / “NPKILL”"
     },
     "Carlos_Caballero": {
       "bio": "",
       "company": "Universitat Oberta de Catalunya",
       "companyLogo": "../images/companies/universidad_oberta_cataluna.png",
       "companyLogoUrl": "../images/companies/universidad_oberta_cataluna.png",
-      "country": "Spain",
+      "country": "Málaga, Spain",
       "featured": false,
       "name": "Carlos Caballero",
       "photo": "/images/people/speakers/carlos_caballero.jpg",
@@ -855,11 +855,11 @@
       "title": "Lecturer"
     },
     "moises_martinez": {
-      "bio": "",
+      "bio": "Moisés es doctor en Inteligencia Artificial especializado en las áreas de robótica, planificación automática y aprendizaje automático. Trabaja como AI & BigData Architect en Sngular. Moisés es además organizador de T3chfest y GDG Cloud Madrid, speaker en diferente meetups y GDE en Machine Learning.",
       "company": "Sngular",
       "companyLogo": "../images/companies/sngular.png",
       "companyLogoUrl": "../images/companies/sngular.png",
-      "country": "Spain",
+      "country": "Madrid, Spain",
       "featured": false,
       "name": "Moisés Martinez",
       "photo": "/images/people/speakers/moises_martinez.jpg",
@@ -876,13 +876,13 @@
       "title": "AI & Big Data Architect / PhD"
     },
     "sergio_casero": {
-      "bio": "",
+      "bio": "Sergio: Tengo 28 años, soy desarrollador de Android desde hace más de 4 años, y llevo trabajando con Kotlin desde 2015. Actualmente trabajo como Senior Android Engineer en Worldline Iberia. Amante del Software en general y de Android + IoT en particular. Arduino FTW!",
       "company": "Worldline e-payment services",
       "companyLogo": "../images/companies/wworldline-logo.jpg",
       "companyLogoUrl": "../images/companies/worldline-logo.jpg",
-      "country": "Spain",
+      "country": "Badajoz, Spain",
       "featured": false,
-      "name": "Sergio Casero",
+      "name": "Sergio Casero Hernández",
       "photo": "/images/people/speakers/sergio_casero.jpg",
       "photoUrl": "../images/people/speakers/sergio_casero.jpg",
       "shortBio": "",
@@ -897,13 +897,13 @@
       "title": "Android Team Lead"
     },
     "daniel_pizarro": {
-      "bio": "",
+      "bio": "From Extremadura, Daniel is a curious guy that He is always trying to learn new knowledge about technology and share it with the community. He works with Android in Worldline Iberia (Madrid) since 2016, but He try to learn how develop also for iOS.",
       "company": "Worldline e-payment services",
       "companyLogo": "../images/companies/wworldline-logo.jpg",
       "companyLogoUrl": "../images/companies/worldline-logo.jpg",
-      "country": "Spain",
+      "country": "Madrid, Spain",
       "featured": false,
-      "name": "Daniel Pizarro",
+      "name": "Daniel Llanos Muñoz",
       "photo": "/images/people/speakers/daniel-pizarro.jpg",
       "photoUrl": "../images/people/speakers/daniel-pizarro.jpg",
       "shortBio": "",
@@ -918,13 +918,13 @@
       "title": "Sr Android Engineer"
     },
     "milos_marinkovic": {
-      "bio": "",
+      "bio": "Milos is a software product developer, enthusiast, tech speaker, and an active event organizer. His interests are primarily Android, modern Web, general tech stuff and gadgets, and---of course---Internet of Things. He also likes reading about global innovation, programming, computer science, and organization.",
       "company": "GDG Berlin Android",
       "companyLogo": "../images/companies/gdg_berlin.png",
       "companyLogoUrl": "../images/companies/gdg_berlin.png",
-      "country": "Germany",
+      "country": "Berlin, Germany",
       "featured": false,
-      "name": "Milos Marinkovic",
+      "name": "Miloš Marinković",
       "photo": "/images/people/speakers/milos_marinkovic.jpg",
       "photoUrl": "../images/people/speakers/milos_marinkovic.jpg",
       "shortBio": "",
@@ -939,7 +939,7 @@
       "title": "Sr Android Developer @ Blacklane"
     },
     "pedro_gomez": {
-      "bio": "",
+      "bio": "Pedro is a young Android developer really focused in new technologies, clean code and testing. Pedro works as Senior Mobile Software Engineer at Karumi. Before Karumi, Pedro has also worked at companies like Tuenti or Droiders as Senior Android Developer. He tries to improve his knowledge about other technologies and languages everyday by setting an interesting objective and writing code up to the best standards of quality.",
       "company": "Karumi",
       "companyLogo": "../images/companies/karumi.png",
       "companyLogoUrl": "../images/companies/karumi.png",
@@ -965,8 +965,8 @@
       "title": "Sr Software Engineer"
     },
     "israel_blancas": {
-      "bio": "",
-      "company": "rti",
+      "bio": "Apasionado de las comunidades, del software libre y todo lo relacionado con la tecnología, Israel trabaja en RTI como Ingeniero de Software. Le gusta tocar y romper. Israel es Organizador de GDG Granada.",
+      "company": "RTI",
       "companyLogo": "../images/companies/rti.png",
       "companyLogoUrl": "../images/companies/rti.png",
       "country": "Spain",
@@ -1033,11 +1033,11 @@
       "title": "Software Engineer"
     },
     "nerea_luis": {
-      "bio": "",
+      "bio": "Nerea Luis Mingueza es Artificial Intelligence Engineer en Sngular. Con 28 años es Doctora Cum Laude en Inteligencia Artificial. Paralelamente ha fundado el evento nacional y gratuito T3chFest con más de 1600 asistentes y 80 charlas sobre ciencia y tecnología. Google le otorgó el premio Women Techmaker en 2016 reconociendo su labor. En enero de 2018 se unió a la Fundación COTEC como experta en tecnología, Talento y Género. Estos son sólo algunos de los méritos obtenidos en estos últimos dos años. Sus actividades divulgativas han hecho que se convierta en un referente ‘women in tech’. Ha continuado colaborando con Google, el Anita Borg Institute, la Casa Real, ministerios, eventos tecnológicos etc. mientras sigue publicando artículos científicos sobre planificación automática multiagente, con gran impacto en los medios, entrevistas y algunas de sus charlas que han sido grabadas. Recientemente Nerea ha recibido la Condecoración de la Orden al Mérito Civil.",
       "company": "Sngular",
       "companyLogo": "../images/companies/sngular.png",
       "companyLogoUrl": "../images/companies/sngular.png",
-      "country": "Spain",
+      "country": "Madrid, Spain",
       "featured": false,
       "name": "Nerea Luis",
       "photo": "/images/people/speakers/nerea_luis.jpg",
