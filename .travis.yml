@@ -22,4 +22,4 @@ deploy:
       branch: master
     project: devfestmalaga19
     token:
-      secure: $FIREBASE_TOKEN_SECURE
+      secure: "OpASBSobufQ/7ViT65vLvZdb86cHfQxCaQ6k8EfMUVKXIVK/Vq77kOUygWpV9SOdr+zQSv5cEgS961p7180pb82SQZEtzOoCj8IuE2gmUuY6w/tsxTQokuLm/zoU58GnAwqwsuulyGgZfh8PUCyAy9NZP5yXKg+KJ6AOmH2xA9XqqI11sdtmP0TZePPPRmOC1lU3V1EkyHiUJv3YH+AemtIyXKheQ+3xRTIIVHNYCkEKZtbaPSlIsgmK8wTIxUAOc9CmW6NWcl5E1DZgY6WP1t0AdIulavTixVSd1t/rv+mY7dJ+R6VoFEFvwvKsRz8y8w+jfQ0tssYrfjvkSIs/MifGPTgCgiR5ffxP9lgeh31+KiZBBqNmkXJWAQJBoGwIpgCujljB4Hn4qDdvh424PNMLNo6owkuRkssnN+Stbm7tK2su4ijL4h3aqOKPvTxtkpnLU6iPT0Q/4qjrNmsJLkIsvO7Km5gnza8t6vS0XKGvGai0+B2CEEGcKOtj9DzCxuzJCMpJRT3GjIio/cC3te3v53QJ5EhJYFAao2amp18Fz4/xz6hPwkj3A+SoYtQI0RNGcrsk++wvLBbXG4cwcz9UD4BzOlLba/WXoWF9FpRkTMrrNhZO50anxQ8dRwhYFe8Hs2AVAT/i7ukl2yskH2ilWQGOI1ru6OG+hI4AEAo="
