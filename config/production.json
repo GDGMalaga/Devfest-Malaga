@@ -1,6 +1,6 @@
 {
   "basepath": "/",
-  "url": "devfest.gdgmalaga.com/",
+  "url": "devfest.gdgmalaga.dev/",
   "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
@@ -13,5 +13,5 @@
     "appId": "1:389901197649:web:34899da292543829e2b370",
     "measurementId": "G-F24LRE9E32"
   },
-  "googleMapApiKey": "AIzaSyC46GvtQHN1pi_nmYLHjWrJeZHkISkbxtA"
+  "googleMapApiKey": "AIzaSyBOnhdh7El1UJ3bjmZoc7UxapdiEevnWyE"
 }

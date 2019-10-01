@@ -3,7 +3,7 @@
   "description": "Join the commuity, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, malaga",
-  "dates": "December 14, 2019",
+  "dates": "December 14th, 2019",
   "partnershipProposition": "https://drive.google.com/file/d/1qn9Mb41aMMyg_MecjA64K_NQx6Gzj01x/view",
   "share": "Share",
   "followOur": "Follow our",
@@ -52,7 +52,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdgmalaga.com/team/e",
+          "url": "https://devfest.gdgmalaga.dev/team/e",
           "newTab": true
         }
       ]
@@ -110,11 +110,11 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "300"
+        "number": "350"
       },
       "days": {
-        "label": "Days",
-        "number": "1"
+        "label": "Hours",
+        "number": "10"
       },
       "sessions": {
         "label": "Sessions",

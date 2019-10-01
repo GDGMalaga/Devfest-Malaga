@@ -160,7 +160,7 @@
 
         <paper-tab
           class="signin-tab"
-          on-tap="(signIn)"
+          on-tap="signIn"
           link
           hidden$="[[user.signedIn]]"
           >{$ signIn $}</paper-tab
@@ -197,7 +197,7 @@
           >
             <p>{$ notifications.default $}</p>
             <div class="panel-actions" layout horizontal end-justified>
-              <paper-button primary-text on-tap="(_toggleNotifications)"
+              <paper-button primary-text on-tap="_toggleNotifications"
                 >{$ notifications.subscribe $}</paper-button
               >
             </div>
@@ -207,7 +207,7 @@
           >
             <p>{$ notifications.enabled $}</p>
             <div class="panel-actions" layout horizontal end-justified>
-              <paper-button primary-text on-tap="(_toggleNotifications)"
+              <paper-button primary-text on-tap="_toggleNotifications"
                 >{$ notifications.unsubscribe $}</paper-button
               >
             </div>
@@ -270,7 +270,7 @@
 
       <paper-icon-button
         icon="hoverboard:account"
-        on-tap="(signIn)"
+        on-tap="signIn"
         hidden$="[[_isAccountIconHidden(user.signedIn, viewport.isLaptopPlus)]]"
       ></paper-icon-button>
     </app-toolbar>
