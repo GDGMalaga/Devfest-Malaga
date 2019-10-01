@@ -1,0 +1,17 @@
+{
+  "basepath": "/",
+  "url": "devfest.gdgmalaga.com/",
+  "analytics": "UA-43643469-8",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyDP6fRqi4I-q2g7zdUWA-LJbuT6veLTsQQ",
+    "authDomain": "devfestmalaga19.firebaseapp.com",
+    "databaseURL": "https://devfestmalaga19.firebaseio.com",
+    "projectId": "devfestmalaga19",
+    "storageBucket": "devfestmalaga19.appspot.com",
+    "messagingSenderId": "389901197649",
+    "appId": "1:389901197649:web:34899da292543829e2b370",
+    "measurementId": "G-F24LRE9E32"
+  },
+  "googleMapApiKey": "AIzaSyC46GvtQHN1pi_nmYLHjWrJeZHkISkbxtA"
+}

@@ -15,4 +15,3 @@ firebase-debug.log
 .DS_Store
 .firebase/
 config/development.json
-config/production.json
