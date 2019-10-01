@@ -771,7 +771,7 @@
       "companyLogo": "/images/sponsors/google.svg",
       "companyLogoUrl": "../images/sponsors/google.svg",
       "country": "Zurich, Switzerland",
-      "featured": true,
+      "featured": false,
       "name": "Ekaterina Kamenskaya",
       "photo": "/images/people/speakers/ekaterina.jpg",
       "photoUrl": "../images/people/speakers/ekaterina.jpg",
@@ -785,6 +785,126 @@
       ],
       "order": 0,
       "title": "Tech Lead"
+    },
+    "moises_martinez": {
+      "bio": "Moisés es doctor en Inteligencia Artificial especializado en las áreas de robótica, planificación automática y aprendizaje automático. Trabaja como AI & BigData Architect en Sngular. Moisés es además organizador de T3chfest y GDG Cloud Madrid, speaker en diferente meetups y GDE en Machine Learning.",
+      "company": "Sngular",
+      "companyLogo": "../images/companies/sngular.png",
+      "companyLogoUrl": "../images/companies/sngular.png",
+      "country": "Madrid, Spain",
+      "featured": false,
+      "name": "Moisés Martinez",
+      "photo": "/images/people/speakers/moises_martinez.jpg",
+      "photoUrl": "../images/people/speakers/moises_martinez.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/moisipm",
+          "name": "Twitter"
+        }
+      ],
+      "order": 1,
+      "title": "AI & Big Data Architect / PhD"
+    },
+    "estefania_garcia": {
+      "bio": "Born in Málaga, Estefanía has completed college at IES Jesús Marín and is currently working as Software Developer intern in Lemoncoder. Her specialty are web technologies, and she often collaborates in the open source community. Estefanía is the co-creator and maintainer of the utility npkill that helps developers find and remove heavy & unused node_module in npm.",
+      "company": "Npkill",
+      "companyLogo": "../images/companies/npkill.png",
+      "companyLogoUrl": "../images/companies/npkill.png",
+      "country": "Málaga, Spain",
+      "featured": false,
+      "name": "Estefania García",
+      "photo": "/images/people/speakers/estefania_garcia.jpg",
+      "photoUrl": "../images/people/speakers/estefania_garcia.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Nyablk",
+          "name": "Twitter"
+        }
+      ],
+      "order": 2,
+      "title": "Intern SwE @ Lemoncode / “NPKILL”"
+    },
+    "Bob_van_Luijt": {
+      "bio": "Bob is a technology entrepreneur, technologist and new media artist from the Netherlands. He is the founder of SeMI Technologies, consultancy firm Kubrickology and the chairman of the Creative Software Foundation. In March 2016, he started the open source knowledge graph Weaviate. Bob is part of the first generation that grew up with The Internet and started his first Internet company at the age of 17. He also studied Arts in The Netherlands and in the US. With his company he works on enterprise innovation projects, artistic technology projects and connected device platforms.",
+      "company": "SeMI Technologies",
+      "companyLogo": "../images/companies/semi.jpeg",
+      "companyLogoUrl": "../images/companies/semi.jpeg",
+      "country": "Amsterdam, Netherlands",
+      "featured": false,
+      "name": "Bob van Luijt",
+      "photo": "/images/people/speakers/bob_van.jpeg",
+      "photoUrl": "../images/people/speakers/bob_van.jpeg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/bobvanluijt",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://linkedin.com/in/bobvanluijt",
+          "name": "Linkedin"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/bobvanluijt",
+          "name": "Github"
+        }
+      ],
+      "order": 3,
+      "title": "Founder & GDE"
+    },
+    "pedro_gomez": {
+      "bio": "Pedro is a young Android developer really focused in new technologies, clean code and testing. Pedro works as Senior Mobile Software Engineer at Karumi. Before Karumi, Pedro has also worked at companies like Tuenti or Droiders as Senior Android Developer. He tries to improve his knowledge about other technologies and languages everyday by setting an interesting objective and writing code up to the best standards of quality.",
+      "company": "Karumi",
+      "companyLogo": "../images/companies/karumi.png",
+      "companyLogoUrl": "../images/companies/karumi.png",
+      "country": "Málaga, Spain",
+      "featured": false,
+      "name": "Pedro Gómez",
+      "photo": "/images/people/speakers/pedro_gomez.jpg",
+      "photoUrl": "../images/people/speakers/pedro_gomez.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pedro_g_s",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pedrovgs",
+          "name": "Github"
+        }
+      ],
+      "order": 4,
+      "title": "Sr Software Engineer"
+    },
+    "nerea_luis": {
+      "bio": "Nerea Luis Mingueza es Artificial Intelligence Engineer en Sngular. Con 28 años es Doctora Cum Laude en Inteligencia Artificial. Paralelamente ha fundado el evento nacional y gratuito T3chFest con más de 1600 asistentes y 80 charlas sobre ciencia y tecnología. Google le otorgó el premio Women Techmaker en 2016 reconociendo su labor. En enero de 2018 se unió a la Fundación COTEC como experta en tecnología, Talento y Género. Estos son sólo algunos de los méritos obtenidos en estos últimos dos años. Sus actividades divulgativas han hecho que se convierta en un referente ‘women in tech’. Ha continuado colaborando con Google, el Anita Borg Institute, la Casa Real, ministerios, eventos tecnológicos etc. mientras sigue publicando artículos científicos sobre planificación automática multiagente, con gran impacto en los medios, entrevistas y algunas de sus charlas que han sido grabadas. Recientemente Nerea ha recibido la Condecoración de la Orden al Mérito Civil.",
+      "company": "Sngular",
+      "companyLogo": "../images/companies/sngular.png",
+      "companyLogoUrl": "../images/companies/sngular.png",
+      "country": "Madrid, Spain",
+      "featured": false,
+      "name": "Nerea Luis",
+      "photo": "/images/people/speakers/nerea_luis.jpg",
+      "photoUrl": "../images/people/speakers/nerea_luis.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/sailormerqury",
+          "name": "Twitter"
+        }
+      ],
+      "order": 5,
+      "title": "AI Engineer / PhD"
     },
     "alberto_gutierrez": {
       "bio": "Engineer in RedHat working in ManageIQ Project and Middleware with RoR, Go and angular. With plenty of years of professional experience like SysAdmin (Hadoop certified, CloudForms) and Developer (Microservices in Go, OpenStack certified), Alberto works developing and maintaining open source projects and is part of the GDG community.",
@@ -809,113 +929,8 @@
           "name": "LinkedIn"
         }
       ],
-      "order": 1,
-      "title": "Sr Software Engineer / GDE"
-    },
-    "estefania_garcia": {
-      "bio": "Born in Málaga, Estefanía has completed college at IES Jesús Marín and is currently working as Software Developer intern in Lemoncoder. Her specialty are web technologies, and she often collaborates in the open source community. Estefanía is the co-creator and maintainer of the utility npkill that helps developers find and remove heavy & unused node_module in npm.",
-      "company": "Npkill",
-      "companyLogo": "../images/companies/npkill.png",
-      "companyLogoUrl": "../images/companies/npkill.png",
-      "country": "Málaga, Spain",
-      "featured": true,
-      "name": "Estefania García",
-      "photo": "/images/people/speakers/estefania_garcia.jpg",
-      "photoUrl": "../images/people/speakers/estefania_garcia.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/Nyablk",
-          "name": "Twitter"
-        }
-      ],
-      "order": 2,
-      "title": "Intern SwE @ Lemoncode / “NPKILL”"
-    },
-    "Carlos_Caballero": {
-      "bio": "",
-      "company": "Universitat Oberta de Catalunya",
-      "companyLogo": "../images/companies/universidad_oberta_cataluna.png",
-      "companyLogoUrl": "../images/companies/universidad_oberta_cataluna.png",
-      "country": "Málaga, Spain",
-      "featured": false,
-      "name": "Carlos Caballero",
-      "photo": "/images/people/speakers/carlos_caballero.jpg",
-      "photoUrl": "../images/people/speakers/carlos_caballero.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/Carlillo",
-          "name": "Twitter"
-        }
-      ],
-      "order": 3,
-      "title": "Lecturer"
-    },
-    "moises_martinez": {
-      "bio": "Moisés es doctor en Inteligencia Artificial especializado en las áreas de robótica, planificación automática y aprendizaje automático. Trabaja como AI & BigData Architect en Sngular. Moisés es además organizador de T3chfest y GDG Cloud Madrid, speaker en diferente meetups y GDE en Machine Learning.",
-      "company": "Sngular",
-      "companyLogo": "../images/companies/sngular.png",
-      "companyLogoUrl": "../images/companies/sngular.png",
-      "country": "Madrid, Spain",
-      "featured": false,
-      "name": "Moisés Martinez",
-      "photo": "/images/people/speakers/moises_martinez.jpg",
-      "photoUrl": "../images/people/speakers/moises_martinez.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/moisipm",
-          "name": "Twitter"
-        }
-      ],
-      "order": 4,
-      "title": "AI & Big Data Architect / PhD"
-    },
-    "sergio_casero": {
-      "bio": "Sergio: Tengo 28 años, soy desarrollador de Android desde hace más de 4 años, y llevo trabajando con Kotlin desde 2015. Actualmente trabajo como Senior Android Engineer en Worldline Iberia. Amante del Software en general y de Android + IoT en particular. Arduino FTW!",
-      "company": "Worldline e-payment services",
-      "companyLogo": "../images/companies/wworldline-logo.jpg",
-      "companyLogoUrl": "../images/companies/worldline-logo.jpg",
-      "country": "Badajoz, Spain",
-      "featured": false,
-      "name": "Sergio Casero Hernández",
-      "photo": "/images/people/speakers/sergio_casero.jpg",
-      "photoUrl": "../images/people/speakers/sergio_casero.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/Sergioch23",
-          "name": "Twitter"
-        }
-      ],
-      "order": 5,
-      "title": "Android Team Lead"
-    },
-    "daniel_pizarro": {
-      "bio": "From Extremadura, Daniel is a curious guy that He is always trying to learn new knowledge about technology and share it with the community. He works with Android in Worldline Iberia (Madrid) since 2016, but He try to learn how develop also for iOS.",
-      "company": "Worldline e-payment services",
-      "companyLogo": "../images/companies/wworldline-logo.jpg",
-      "companyLogoUrl": "../images/companies/worldline-logo.jpg",
-      "country": "Madrid, Spain",
-      "featured": false,
-      "name": "Daniel Llanos Muñoz",
-      "photo": "/images/people/speakers/daniel-pizarro.jpg",
-      "photoUrl": "../images/people/speakers/daniel-pizarro.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/Dany4794",
-          "name": "Twitter"
-        }
-      ],
       "order": 6,
-      "title": "Sr Android Engineer"
+      "title": "Sr Software Engineer / GDE"
     },
     "milos_marinkovic": {
       "bio": "Milos is a software product developer, enthusiast, tech speaker, and an active event organizer. His interests are primarily Android, modern Web, general tech stuff and gadgets, and---of course---Internet of Things. He also likes reading about global innovation, programming, computer science, and organization.",
@@ -935,177 +950,15 @@
           "name": "Twitter"
         }
       ],
-      "order": 8,
+      "order": 7,
       "title": "Sr Android Developer @ Blacklane"
     },
-    "pedro_gomez": {
-      "bio": "Pedro is a young Android developer really focused in new technologies, clean code and testing. Pedro works as Senior Mobile Software Engineer at Karumi. Before Karumi, Pedro has also worked at companies like Tuenti or Droiders as Senior Android Developer. He tries to improve his knowledge about other technologies and languages everyday by setting an interesting objective and writing code up to the best standards of quality.",
-      "company": "Karumi",
-      "companyLogo": "../images/companies/karumi.png",
-      "companyLogoUrl": "../images/companies/karumi.png",
-      "country": "Spain",
-      "featured": false,
-      "name": "Pedro Gómez",
-      "photo": "/images/people/speakers/pedro_gomez.jpg",
-      "photoUrl": "../images/people/speakers/pedro_gomez.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/pedro_g_s",
-          "name": "Twitter"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/pedrovgs",
-          "name": "Github"
-        }
-      ],
-      "order": 9,
-      "title": "Sr Software Engineer"
-    },
-    "israel_blancas": {
-      "bio": "Apasionado de las comunidades, del software libre y todo lo relacionado con la tecnología, Israel trabaja en RTI como Ingeniero de Software. Le gusta tocar y romper. Israel es Organizador de GDG Granada.",
-      "company": "RTI",
-      "companyLogo": "../images/companies/rti.png",
-      "companyLogoUrl": "../images/companies/rti.png",
-      "country": "Spain",
-      "featured": false,
-      "name": "Israel Blancas",
-      "photo": "/images/people/speakers/israel_blancas.jpg",
-      "photoUrl": "../images/people/speakers/israel_blancas.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/iblancasa",
-          "name": "Twitter"
-        }
-      ],
-      "order": 10,
-      "title": "Internal Tools Engineer"
-    },
-    "javier_lopez": {
-      "bio": "",
-      "company": "BBVA Next",
-      "companyLogo": "../images/companies/bbd_next.png",
-      "companyLogoUrl": "../images/companies/bbd_next.png",
-      "country": "Spain",
-      "featured": false,
-      "name": "Javier López",
-      "photo": "/images/people/speakers/javier_lopez.jpg",
-      "photoUrl": "../images/people/speakers/javier_lopez.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/javioreto",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/jlopezmartinez/",
-          "name": "Linkedin"
-        }
-      ],
-      "order": 11,
-      "title": "Tech Lead / GDE"
-    },
-    "gema_arnaiz": {
-      "bio": "",
-      "company": "BBVA Next",
-      "companyLogo": "../images/companies/bbd_next.png",
-      "companyLogoUrl": "../images/companies/bbd_next.png",
-      "country": "Spain",
-      "featured": false,
-      "name": "Gema Arnaiz",
-      "photo": "/images/people/speakers/gema_arnaiz.jpg",
-      "photoUrl": "../images/people/speakers/gema_arnaiz.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/garnaizd92",
-          "name": "Twitter"
-        }
-      ],
-      "order": 12,
-      "title": "Software Engineer"
-    },
-    "nerea_luis": {
-      "bio": "Nerea Luis Mingueza es Artificial Intelligence Engineer en Sngular. Con 28 años es Doctora Cum Laude en Inteligencia Artificial. Paralelamente ha fundado el evento nacional y gratuito T3chFest con más de 1600 asistentes y 80 charlas sobre ciencia y tecnología. Google le otorgó el premio Women Techmaker en 2016 reconociendo su labor. En enero de 2018 se unió a la Fundación COTEC como experta en tecnología, Talento y Género. Estos son sólo algunos de los méritos obtenidos en estos últimos dos años. Sus actividades divulgativas han hecho que se convierta en un referente ‘women in tech’. Ha continuado colaborando con Google, el Anita Borg Institute, la Casa Real, ministerios, eventos tecnológicos etc. mientras sigue publicando artículos científicos sobre planificación automática multiagente, con gran impacto en los medios, entrevistas y algunas de sus charlas que han sido grabadas. Recientemente Nerea ha recibido la Condecoración de la Orden al Mérito Civil.",
-      "company": "Sngular",
-      "companyLogo": "../images/companies/sngular.png",
-      "companyLogoUrl": "../images/companies/sngular.png",
-      "country": "Madrid, Spain",
-      "featured": false,
-      "name": "Nerea Luis",
-      "photo": "/images/people/speakers/nerea_luis.jpg",
-      "photoUrl": "../images/people/speakers/nerea_luis.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/sailormerqury",
-          "name": "Twitter"
-        }
-      ],
-      "order": 13,
-      "title": "AI Engineer / PhD"
-    },
-    "david_cifuentes": {
-      "bio": "",
-      "company": "Zalon by Zalando",
-      "companyLogo": "../images/companies/zalon_by_zalando.png",
-      "companyLogoUrl": "../images/companies/zalon_by_zalando.png",
-      "country": "Spain",
-      "featured": false,
-      "name": "David Cifuentes",
-      "photo": "/images/people/speakers/david_cifuentes.jpg",
-      "photoUrl": "../images/people/speakers/david_cifuentes.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/dcifuen",
-          "name": "Twitter"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/dcifuen",
-          "name": "Github"
-        }
-      ],
-      "order": 14,
-      "title": "Sr Software Engineer"
-    },
-    "jorge_del_casar": {
-      "bio": "",
-      "company": "Sngular",
-      "companyLogo": "../images/companies/sngular.png",
-      "companyLogoUrl": "../images/companies/sngular.png",
-      "country": "Spain",
-      "featured": false,
-      "name": "Jorge del Casar",
-      "photo": "/images/people/speakers/jorge_del_casar.jpg",
-      "photoUrl": "../images/people/speakers/jorge_del_casar.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/jorgecasar",
-          "name": "Twitter"
-        }
-      ],
-      "order": 15,
-      "title": "Head of Frontend"
-    },
     "leonardo_pitelli": {
-      "bio": "",
+      "bio": "Leonardo is an Argentinian Software Engineer and Google Developer Expert for Web and Cloud. He's been working on web technologies for many years, building websites with a heavy focus on performance and optimization. He has hosted leading roles in progressive web apps at e-commerce and classifieds companies. Leonardo has recently moved to Lisbon and is Tech Lead in OLX Portugal.",
       "company": "OLX",
       "companyLogo": "../images/companies/olx.png",
       "companyLogoUrl": "../images/companies/olx.png",
-      "country": "Portugal",
+      "country": "Lisboa, Portugal",
       "featured": false,
       "name": "Leonardo Pitelli",
       "photo": "/images/people/speakers/leonardo_pitelli.jpg",
@@ -1123,15 +976,15 @@
           "name": "Linkedin"
         }
       ],
-      "order": 16,
+      "order": 8,
       "title": "Tech Lead / GDE"
     },
     "carmen_recio": {
-      "bio": "",
+      "bio": "Carmen trabaja como Data Scientist en el equipo técnico de Sistemas Cognitivos, es Embajadora de Computación Cuántica en IBM y Qiskit Advocate. Estudió Matemáticas en la Universidad de Zaragoza, habla 4 idiomas y fue becaria de investigación en el departamento de Física-Matemática del Trinity College de Dublín en un proyecto sobre Relatividad General. Comenzó en IBM como parte del programa Artificial Intelligence & Cognitive program en el departamento de Hardware, a través de la Fundación Universidad-Empresa mientras hacía un posgrado en la Universidad Autónoma de Madrid (Citius Postgraduate Training Program). En IBM se está especializando en Inteligencia Artificial y Computación Cuántica. Carmen recibió el premio Movers by FUE, un reconocimiento a la excelencia académica y a la actitud diferencial en la empresa, por la Fundación Universidad-Empresa y la Fundación Rafael del Pino, gracias a este premio participó en el programa C4t Call for talent, en Londres y Boston, donde fue al Imperial College of London, LBS, LSE, MIT y Harvard University. Carmen colabora como profesora en varios máster en la UAH, es voluntaria del proyecto ESTALMAT de la Real Academia de las Ciencias Exactas, Físicas y Naturales y co-organizadora y co-fundadora de 4 grupos de meetup sobre IA en Madrid, Barcelona, Grecia y Lisboa.",
       "company": "IBM Research",
       "companyLogo": "../images/companies/ibm.jpg",
       "companyLogoUrl": "../images/companies/ibm.jpg",
-      "country": "Spain",
+      "country": "Madrid, Spain",
       "featured": false,
       "name": "Carmen Recio",
       "photo": "/images/people/speakers/carmen_recio.jpg",
@@ -1144,39 +997,186 @@
           "name": "Twitter"
         }
       ],
-      "order": 17,
-      "title": "Mathematician / Advocate"
+      "order": 9,
+      "title": "Data Scientist / Advocate"
     },
-    "Bob_van_Luijt": {
+    "Carlos_Caballero": {
       "bio": "",
-      "company": "SeMI Technologies",
-      "companyLogo": "../images/companies/semi.jpeg",
-      "companyLogoUrl": "../images/companies/semi.jpeg",
-      "country": "Spain",
+      "company": "Universitat Oberta de Catalunya",
+      "companyLogo": "../images/companies/universidad_oberta_cataluna.png",
+      "companyLogoUrl": "../images/companies/universidad_oberta_cataluna.png",
+      "country": "Málaga, Spain",
       "featured": false,
-      "name": "Bob van Luijt",
-      "photo": "/images/people/speakers/bob_van.jpeg",
-      "photoUrl": "../images/people/speakers/bob_van.jpeg",
+      "name": "Carlos Caballero",
+      "photo": "/images/people/speakers/carlos_caballero.jpg",
+      "photoUrl": "../images/people/speakers/carlos_caballero.jpg",
       "shortBio": "",
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://twitter.com/bobvanluijt",
+          "link": "https://twitter.com/Carlillo",
+          "name": "Twitter"
+        }
+      ],
+      "order": 10,
+      "title": "Lecturer"
+    },
+    "daniel_pizarro": {
+      "bio": "From Extremadura, Daniel is a curious guy that He is always trying to learn new knowledge about technology and share it with the community. He works with Android in Worldline Iberia (Madrid) since 2016, but He try to learn how develop also for iOS.",
+      "company": "Worldline e-payment services",
+      "companyLogo": "../images/companies/wworldline-logo.jpg",
+      "companyLogoUrl": "../images/companies/worldline-logo.jpg",
+      "country": "Madrid, Spain",
+      "featured": false,
+      "name": "Daniel Llanos Muñoz",
+      "photo": "/images/people/speakers/daniel-pizarro.jpg",
+      "photoUrl": "../images/people/speakers/daniel-pizarro.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Dany4794",
+          "name": "Twitter"
+        }
+      ],
+      "order": 11,
+      "title": "Sr Android Engineer"
+    },
+    "david_cifuentes": {
+      "bio": "David is a Software Engineer at Zalon by Zalando, based in Berlin, Germany. For the past few years, he has been developing applications running in the cloud in different kinds of projects ranging from enterprise software to IoT but he is currently focused in marketing tech. In his spare time, he enjoys traveling the world and running marathons.",
+      "company": "Zalon by Zalando",
+      "companyLogo": "../images/companies/zalon_by_zalando.png",
+      "companyLogoUrl": "../images/companies/zalon_by_zalando.png",
+      "country": "Berlín, Germany",
+      "featured": false,
+      "name": "David Cifuentes",
+      "photo": "/images/people/speakers/david_cifuentes.jpg",
+      "photoUrl": "../images/people/speakers/david_cifuentes.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dcifuen",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/dcifuen",
+          "name": "Github"
+        }
+      ],
+      "order": 12,
+      "title": "Sr Software Engineer"
+    },
+    "gema_arnaiz": {
+      "bio": "Ingeniera de Software, Gema trabaja en en el equipo de Payments de BBVA Next Technologies desarrollando soluciones de pagos. Gema es organizadora de GDG Burgos.",
+      "company": "BBVA Next",
+      "companyLogo": "../images/companies/bbd_next.png",
+      "companyLogoUrl": "../images/companies/bbd_next.png",
+      "country": "Burgos, Spain",
+      "featured": false,
+      "name": "Gema Arnaiz",
+      "photo": "/images/people/speakers/gema_arnaiz.jpg",
+      "photoUrl": "../images/people/speakers/gema_arnaiz.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/garnaizd92",
+          "name": "Twitter"
+        }
+      ],
+      "order": 13,
+      "title": "Software Engineer"
+    },
+    "jorge_del_casar": {
+      "bio": "Jorge es desarrollador web desde hace más de 15 años. En 2012, Jorge centró su carrera en Javascript, desde 2015 comenzó a desarrollar Web Components y desde 2018 ha llevado los web components a otro nivel defendiendo la idea de los Micro Frontends. Adicionalmente lleva desde 2017 trasteando con Google Assistant creando Actions on Google y chatbots para Slack, Twitter y Telegram.",
+      "company": "Sngular",
+      "companyLogo": "../images/companies/sngular.png",
+      "companyLogoUrl": "../images/companies/sngular.png",
+      "country": "Madrid, Spain",
+      "featured": false,
+      "name": "Jorge del Casar",
+      "photo": "/images/people/speakers/jorge_del_casar.jpg",
+      "photoUrl": "../images/people/speakers/jorge_del_casar.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jorgecasar",
+          "name": "Twitter"
+        }
+      ],
+      "order": 14,
+      "title": "Head of Frontend"
+    },
+    "israel_blancas": {
+      "bio": "Apasionado de las comunidades, del software libre y todo lo relacionado con la tecnología, Israel trabaja en RTI como Ingeniero de Software. Le gusta tocar y romper. Israel es Organizador de GDG Granada.",
+      "company": "RTI",
+      "companyLogo": "../images/companies/rti.png",
+      "companyLogoUrl": "../images/companies/rti.png",
+      "country": "Granada, Spain",
+      "featured": false,
+      "name": "Israel Blancas",
+      "photo": "/images/people/speakers/israel_blancas.jpg",
+      "photoUrl": "../images/people/speakers/israel_blancas.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/iblancasa",
+          "name": "Twitter"
+        }
+      ],
+      "order": 15,
+      "title": "Internal Tools Engineer"
+    },
+    "sergio_casero": {
+      "bio": "Sergio: Tengo 28 años, soy desarrollador de Android desde hace más de 4 años, y llevo trabajando con Kotlin desde 2015. Actualmente trabajo como Senior Android Engineer en Worldline Iberia. Amante del Software en general y de Android + IoT en particular. Arduino FTW!",
+      "company": "Worldline e-payment services",
+      "companyLogo": "../images/companies/wworldline-logo.jpg",
+      "companyLogoUrl": "../images/companies/worldline-logo.jpg",
+      "country": "Badajoz, Spain",
+      "featured": false,
+      "name": "Sergio Casero Hernández",
+      "photo": "/images/people/speakers/sergio_casero.jpg",
+      "photoUrl": "../images/people/speakers/sergio_casero.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Sergioch23",
+          "name": "Twitter"
+        }
+      ],
+      "order": 16,
+      "title": "Android Team Lead"
+    },
+    "javier_lopez": {
+      "bio": "Javier is a technology enthusiast, and works as Tech Lead at BBVA Next Technologies. He is also professor of Cloud technologies and in his free time he organizes Google Developers Group Burgos and presides Abi2Burgos.",
+      "company": "BBVA Next",
+      "companyLogo": "../images/companies/bbd_next.png",
+      "companyLogoUrl": "../images/companies/bbd_next.png",
+      "country": "Burgos, Spain",
+      "featured": false,
+      "name": "Javier López",
+      "photo": "/images/people/speakers/javier_lopez.jpg",
+      "photoUrl": "../images/people/speakers/javier_lopez.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/javioreto",
           "name": "Twitter"
         },
         {
           "icon": "linkedin",
-          "link": "https://linkedin.com/in/bobvanluijt",
+          "link": "https://www.linkedin.com/in/jlopezmartinez/",
           "name": "Linkedin"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/bobvanluijt",
-          "name": "Github"
         }
       ],
-      "order": 18,
-      "title": "Cofounder & GDE"
+      "order": 17,
+      "title": "Tech Lead / GDE"
     }
   },
   "team": [
@@ -1203,8 +1203,32 @@
               "name": "Github"
             }
           ],
-          "order": 1,
-          "title": "Lead Organizer"
+          "order": 10,
+          "title": "Organizer"
+        },
+        {
+          "name": "Rosa Castillo",
+          "photo": "images/people/team/a_rosa.jpg",
+          "photoUrl": "../images/people/team/a_rosa.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/arosacastillo/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/rosacastilloPhD",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/cyberosa",
+              "name": "Github"
+            }
+          ],
+          "order": 11,
+          "title": "Content, Diversity & Inclusion"
         },
         {
           "name": "Cristina Díaz",
@@ -1227,152 +1251,8 @@
               "name": "Github"
             }
           ],
-          "order": 0,
-          "title": "Communities & Party Lead Organizer"
-        },
-        {
-          "name": "Juanma Rojas",
-          "photo": "/images/people/team/Juanma_Rojas.jpg",
-          "photoUrl": "../images/people/team/Juanma_Rojas.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/juanma-rojas/",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/JRFstack",
-              "name": "Twitter"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/juanmarc82",
-              "name": "Github"
-            }
-          ],
-          "order": 9,
-          "title": "Community relations"
-        },
-        {
-          "name": "Quino Terrasa",
-          "photo": "/images/people/team/joaquin_terrasa.png",
-          "photoUrl": "../images/people/team/joaquin_terrasa.png",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/quinoterrasa/",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/flamenquino",
-              "name": "Twitter"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/espetro",
-              "name": "Github"
-            }
-          ],
-          "order": 12,
-          "title": "Website && RRSS Specialist"
-        },
-        {
-          "name": "Pedro Fernández",
-          "photo": "/images/people/sr_x.jpg",
-          "photoUrl": "../images/people/team/pedro_fdez.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/pedrofernandezcamacho",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/pedringcoding",
-              "name": "Twitter"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/pedringcoding",
-              "name": "Github"
-            }
-          ],
-          "order": 2,
-          "title": "Sponsors Lead Organizer"
-        },
-        {
-          "name": "A. Rosa Castillo",
-          "photo": "images/people/team/a_rosa.jpg",
-          "photoUrl": "../images/people/team/a_rosa.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/arosacastillo/",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/rosacastilloPhD",
-              "name": "Twitter"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/cyberosa",
-              "name": "Github"
-            }
-          ],
-          "order": 3,
-          "title": "Speakers Lead Organizer"
-        },
-        {
-          "name": "Karol Depka Pradzinski",
-          "photo": "/images/people/team/karol_depka.jpg",
-          "photoUrl": "../images/people/team/karol_depka.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/karoldepka",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/karol_depka",
-              "name": "Twitter"
-            },
-            {
-              "icon": "github",
-              "link": " https://github.com/karol-depka",
-              "name": "Github"
-            }
-          ],
-          "order": 11,
-          "title": "Community relations Advisor"
-        },
-        {
-          "name": "Salvador León",
-          "photo": "/images/people/team/Salvador.jpeg",
-          "photoUrl": "../images/people/team/Salvador.jpeg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/salvador-leon-vaz/",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/Sleonvaz",
-              "name": "Twitter"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/sleonvaz",
-              "name": "Github"
-            }
-          ],
-          "order": 8,
-          "title": "Finance & Party"
+          "order": 14,
+          "title": "Community Relations"
         },
         {
           "name": "Miguel Angel Ruiz",
@@ -1395,32 +1275,75 @@
               "name": "Github"
             }
           ],
-          "order": 5,
-          "title": "Speakers Lead Organizer"
+          "order": 15,
+          "title": "Partnerships & Logistics"
         },
         {
-          "name": "Francisco Baena",
-          "photo": "/images/people/team/baenans.jpeg",
-          "photoUrl": "../images/people/team/baenans.jpeg",
+          "name": "Alicia Ropero",
+          "photo": "/images/people/team/alicia_ropero.jpg",
+          "photoUrl": "../images/people/team/alicia_ropero.jpg",
           "socials": [
             {
               "icon": "linkedin",
-              "link": "https://linkedin.co.uk/in/baenans",
+              "link": "https://www.linkedin.com/in/alicia-ropero-haro",
               "name": "Linkedin"
             },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/baenans",
+              "link": "https://twitter.com/ali_bluee",
+              "name": "Twitter"
+            }
+          ],
+          "order": 16,
+          "title": "Partnerships & Logistics"
+        },
+        {
+          "name": "Quino Terrasa",
+          "photo": "/images/people/team/joaquin_terrasa.png",
+          "photoUrl": "../images/people/team/joaquin_terrasa.png",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/quinoterrasa/",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/flamenquino",
               "name": "Twitter"
             },
             {
               "icon": "github",
-              "link": "https://github.com/baenans",
+              "link": "https://github.com/espetro",
               "name": "Github"
             }
           ],
-          "order": 4,
-          "title": "Event Advisor"
+          "order": 17,
+          "title": "Social Media"
+        },
+        {
+          "name": "Karol Depka Pradzinski",
+          "photo": "/images/people/team/karol_depka.jpg",
+          "photoUrl": "../images/people/team/karol_depka.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/karoldepka",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/karol_depka",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": " https://github.com/karol-depka",
+              "name": "Github"
+            }
+          ],
+          "order": 18,
+          "title": "Community Relations"
         },
         {
           "name": "Yasmina Gil",
@@ -1443,8 +1366,8 @@
               "name": "Github"
             }
           ],
-          "order": 6,
-          "title": "Speakers & Party"
+          "order": 19,
+          "title": "Local Activities"
         },
         {
           "name": "Azahar Zafra",
@@ -1467,8 +1390,8 @@
               "name": "Github"
             }
           ],
-          "order": 7,
-          "title": "Event Advisor"
+          "order": 22,
+          "title": "Organiser"
         },
         {
           "name": "Marta Niemiec",
@@ -1481,27 +1404,56 @@
               "name": "Linkedin"
             }
           ],
-          "order": 14,
+          "order": 23,
           "title": "Designer"
         },
         {
-          "name": "Javi Ramirez",
-          "photo": "/images/people/team/javi_ramirez.jpeg",
-          "photoUrl": "../images/people/team/javi_ramirez.jpeg",
+          "name": "Pedro Fernández",
+          "photo": "/images/people/sr_x.jpg",
+          "photoUrl": "../images/people/team/pedro_fdez.jpg",
           "socials": [
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/javiramirezcapilla/",
+              "link": "https://www.linkedin.com/in/pedrofernandezcamacho",
               "name": "Linkedin"
             },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/xlramirez",
+              "link": "https://twitter.com/pedringcoding",
               "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/pedringcoding",
+              "name": "Github"
             }
           ],
-          "order": 14,
-          "title": "RRSS & Marketing Advisor"
+          "order": 12,
+          "title": "Sponsors & Partnerships"
+        },
+        {
+          "name": "Francisco Baena",
+          "photo": "/images/people/team/baenans.jpeg",
+          "photoUrl": "../images/people/team/baenans.jpeg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://linkedin.co.uk/in/baenans",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/baenans",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/baenans",
+              "name": "Github"
+            }
+          ],
+          "order": 13,
+          "title": "Content, Diversity & Inclussion"
         }
       ],
       "title": "Core Team"
