@@ -917,27 +917,6 @@
       "order": 6,
       "title": "Sr Android Engineer"
     },
-    "imran_settuba": {
-      "bio": "",
-      "company": "47 Degrees",
-      "companyLogo": "../images/companies/47_degrees.jpg",
-      "companyLogoUrl": "../images/companies/47_degrees.jpg",
-      "country": "Germany",
-      "featured": false,
-      "name": "Imran Settuba",
-      "photo": "/images/people/speakers/imran_settuba.png",
-      "photoUrl": "../images/people/speakers/imran_settuba.png",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/i-walker",
-          "name": "Github"
-        }
-      ],
-      "order": 7,
-      "title": "Software Engineer"
-    },
     "milos_marinkovic": {
       "bio": "",
       "company": "GDG Berlin Android",
