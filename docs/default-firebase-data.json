@@ -59,6 +59,12 @@
         },
         {
           "order": 1,
+          "logoUrl": "../images/sponsors/rindus.png",
+          "name": "Rindus",
+          "url": "https://www.rindus.de"
+        },
+        {
+          "order": 1,
           "logoUrl": "../images/sponsors/malt.png",
           "name": "Malt",
           "url": "https://www.malt.es/"
@@ -119,7 +125,7 @@
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/organizer-logo.png",
+          "logoUrl": "../images/logos/organizer-logo.svg",
           "name": "GDG Malaga",
           "url": "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/"
         }
